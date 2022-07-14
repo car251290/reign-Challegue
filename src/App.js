@@ -25,5 +25,4 @@ useEffect(async() => {
     </ul>
   );
 }
-
 export default App;
